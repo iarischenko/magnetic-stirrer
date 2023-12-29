@@ -7,4 +7,5 @@
 
 bear is needed to create compile_commands.json and enable clangd
 
+[![magnetic stirrer, video on youtube](https://img.youtube.com/vi/rTuzHnbndq4/0.jpg)](https://youtu.be/rTuzHnbndq4)
 
